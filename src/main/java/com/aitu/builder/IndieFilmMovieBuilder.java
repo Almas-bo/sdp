@@ -1,6 +1,6 @@
 package com.aitu.builder;
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 
 /**
  * Строитель для инди-фильмов.
